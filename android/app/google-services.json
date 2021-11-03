@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829350585241",
+    "project_id": "costacoffee-9fe9a",
+    "storage_bucket": "costacoffee-9fe9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829350585241:android:59d84f1821b5a1cb506908",
+        "android_client_info": {
+          "package_name": "com.costacoffeegypt.costacoffe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829350585241-b1tkopj5am8vs1pt3a6eu3vts6lojsjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.costacoffeegypt.costacoffe",
+            "certificate_hash": "b5550e66f543334e5ff0e8603ec1ee144a6dc9af"
+          }
+        },
+        {
+          "client_id": "829350585241-r71pns5ir1lcc91i37p78jio7b2hj4os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3f7cvLwv_E4pZOqqANhr_b3wjiefXj8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829350585241-r71pns5ir1lcc91i37p78jio7b2hj4os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
